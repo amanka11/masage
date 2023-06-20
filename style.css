@@ -25,15 +25,15 @@ background: #fffde7;
 .wrapper{
     
    
-    margin: 200px 0px;
+    margin: 80px -20px;
     padding: -10 20%;
-    padding-bottom: 10px;
+    padding-bottom: 120px;
     text-transform: capitalize;
 }
 h1{
     color: black;
     font-size: 45px;
-    padding-bottom: 15px;
+    padding-bottom: 50px;
     text-align: center;
     text-shadow: 0 15px 10px rgba(0,0,0,0.2);
 }
@@ -44,7 +44,7 @@ display: flex;
 }
 .box{
     height: 1200x;
-    padding: -100px;
+    padding: -150px;
     text-align: center;
     border-radius: 50px;
     box-shadow: px 5px 10px rgba(0,0,0,0.2);
@@ -106,6 +106,7 @@ header{
 .cont{
 margin:100px auto;
 width: 70%;
+margin-top: -30px;
 
 }
 .cont img{
@@ -114,6 +115,7 @@ width: 70%;
     border: 3px solid black;
     border-radius: 10px;
     margin-right: 15px;
+    margin-top: -20px;
 }
 .text-box{
 
@@ -202,6 +204,19 @@ font-style: italic;
 font-size:50px;
 text-align:center;
 font-family:"Luminari",fantasy;
+margin: 50px -30px;
+margin-top: 50px;
+margin-bottom: -60px;
+}
+.sert p{
+    background-color:#fffde7;
+font-style: italic;
+font-size:50px;
+text-align:center;
+font-family:"Luminari",fantasy;
+margin: 150px 50px;
+margin-top: 100px;
+margin-bottom: 60px;
 }
 
 .tab {
